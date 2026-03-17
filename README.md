@@ -1,16 +1,86 @@
-## Hi there 👋
+# Yash Bharadwaj
 
-<!--
-**yash2k26/yash2k26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Engineer • Design Engineer • Motion-driven UI
 
-Here are some ideas to get you started:
+I build high-end, cinematic web experiences with a strong focus on **design, motion, and polish**.  
+My work sits at the intersection of **engineering and visual storytelling**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ What I Care About
+
+- Pixel-perfect UI & spacing systems  
+- Smooth, intentional motion (not gimmicks)  
+- Clean, scalable component architecture  
+- Performance-first frontend  
+- Premium, product-level experiences  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React / Next.js
+- Tailwind CSS
+- Framer Motion / Motion One
+
+**Backend (Working Knowledge)**
+- Node.js
+- PostgreSQL / Prisma
+
+---
+
+## 🚀 Featured Work
+
+### 🟢 SaaS Analytics Dashboard
+A fullstack analytics platform with clean data visualization and smooth UI interactions.
+
+- Auth (JWT)
+- Aggregation APIs
+- Animated dashboard cards
+- Chart-driven insights
+
+---
+
+### 🎧 Cinematic Landing Pages
+High-end product landing pages inspired by premium brands.
+
+- Scroll-driven storytelling  
+- Subtle motion & parallax  
+- Dark luxury aesthetic  
+
+---
+
+### 🧩 UI Components
+Reusable, polished UI components with strong attention to detail.
+
+- Credit Card UI  
+- Interactive elements  
+- Motion-enhanced components  
+
+---
+
+## 🎯 Current Focus
+
+- Building **agency-level landing pages**
+- Improving **motion design systems**
+- Pushing towards **Apple-level UI polish**
+- Exploring **React Native interactions**
+
+---
+
+## 📈 Philosophy
+
+> Good UI is invisible.  
+> Great UI feels inevitable.
+
+I don’t just build interfaces — I craft experiences that feel **fast, intentional, and premium**.
+
+---
+
+## 🤝 Let’s Connect
+
+- Twitter: (add your link)
+- Portfolio: (add your domain when ready)
+
+---
