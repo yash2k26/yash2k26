@@ -32,7 +32,7 @@ My work sits at the intersection of **engineering and visual storytelling**.
 
 ## 🚀 Featured Work
 
-### 🟢 SaaS Analytics Dashboard
+### SaaS Analytics Dashboard
 A fullstack analytics platform with clean data visualization and smooth UI interactions.
 
 - Auth (JWT)
@@ -42,7 +42,7 @@ A fullstack analytics platform with clean data visualization and smooth UI inter
 
 ---
 
-### 🎧 Cinematic Landing Pages
+### Cinematic Landing Pages
 High-end product landing pages inspired by premium brands.
 
 - Scroll-driven storytelling  
@@ -51,21 +51,12 @@ High-end product landing pages inspired by premium brands.
 
 ---
 
-### 🧩 UI Components
+### UI Components
 Reusable, polished UI components with strong attention to detail.
 
 - Credit Card UI  
 - Interactive elements  
 - Motion-enhanced components  
-
----
-
-## 🎯 Current Focus
-
-- Building **agency-level landing pages**
-- Improving **motion design systems**
-- Pushing towards **Apple-level UI polish**
-- Exploring **React Native interactions**
 
 ---
 
@@ -80,7 +71,6 @@ I don’t just build interfaces — I craft experiences that feel **fast, intent
 
 ## 🤝 Let’s Connect
 
-- Twitter: (add your link)
-- Portfolio: (add your domain when ready)
+- Twitter: https://x.com/YASH2k2450
 
 ---
