@@ -1,54 +1,27 @@
 # Yash Bharadwaj
 
-### Frontend Engineer • Design Engineer • Motion-driven UI
+Design engineer. I work at the intersection of code and craft — where the interface stops feeling like software and starts feeling like thought.
 
-I build high-end, cinematic web experiences with a strong focus on **design, motion, and polish**.  
-My work sits at the intersection of **engineering and visual storytelling**.
-
----
-
-## ⚡ What I Care About
-
-- Pixel-perfect UI & spacing systems
-- Smooth, intentional motion (not gimmicks)
-- Clean, scalable component architecture
-- Performance-first frontend
-- Premium, product-level experiences
+I care about the details that most people skip: the easing curve, the pixel nudge, the interaction that feels inevitable once you've seen it.
 
 ---
 
-## 🛠 Tech Stack
+## What I believe
 
-React · Next.js · React Native · TypeScript · Tailwind CSS · Framer Motion · GSAP · WebGL · Three.js · Node.js · PostgreSQL · Prisma · Solana Web3.js
+Polish isn't a finishing touch. It's the whole point.
 
----
-
-## 🚀 Featured Work
-
-**NOMI** — Solana mobile dApp where users own & care for NFT companions. Published on the Solana dApp Store with 72+ reviews and real revenue.
-
-**PredictPro** — Real-time prediction markets aggregator combining Polymarket + Kalshi with unified feed, volume/liquidity sorting, and probability charts.
-
-**SaaS Analytics** — Multi-workspace analytics dashboard with live animated charts, event tracking, and fully themeable UI.
-
-**Dyson Landing** — Cinematic, scroll-driven landing page with frame-by-frame hero visuals and premium text reveals.
-
-**UI Components** — AI Send Button (WebGL liquid metal shader), Credit Card UI (flip + digit animations), Spider-Verse FIFA Card Carousel (3D tilt), Bubble Navbar.
+Motion should feel earned — not decorative, but informative. Spacing isn't padding; it's breathing room for the eye. And the best UI is the one where the user never thinks about the UI.
 
 ---
 
-## 📈 Philosophy
+## What I'm building
 
-> Good UI is invisible.  
-> Great UI feels inevitable.
-
-I don't just build interfaces — I craft experiences that feel **fast, intentional, and premium**.
+Shipped interfaces — web, mobile, on-chain. Solana dApps, prediction market tools, analytics dashboards, cinematic landing pages. The scale changes. The obsession with detail doesn't.
 
 ---
 
-## 🤝 Let's Connect
+## Let's talk
 
-- Portfolio: https://yashb.xyz
-- Twitter: https://x.com/Yassshhu
-- GitHub: https://github.com/yash2k26
-- Email: bharadwaj465@gmail.com
+- [yashb.xyz](https://yashb.xyz)
+- [x.com/Yassshhu](https://x.com/Yassshhu)
+- bharadwaj465@gmail.com
