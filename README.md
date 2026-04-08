@@ -71,6 +71,6 @@ I don’t just build interfaces — I craft experiences that feel **fast, intent
 
 ## 🤝 Let’s Connect
 
-- Twitter: https://x.com/YASH2k2450
+- Twitter: https://x.com/Yassshhu
 
 ---
