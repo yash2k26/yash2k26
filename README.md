@@ -1,26 +1,54 @@
-# Yash Bharadwaj — Portfolio
+# Yash Bharadwaj
 
-**Frontend & Design Engineer** • React • TypeScript • Motion UI
+### Frontend Engineer • Design Engineer • Motion-driven UI
 
-> [yashb.xyz](https://yashb.xyz) · [GitHub](https://github.com/yash2k26) · [Twitter/X](https://x.com/Yassshhu) · bharadwaj465@gmail.com
-
----
-
-## Projects
-
-| Project | Live | Repo |
-|---------|------|------|
-| **NOMI** — Solana mobile dApp, NFT companions, 72+ reviews on dApp Store | — | [repo](https://github.com/yash2k26/NomiApp) |
-| **PredictPro** — Real-time prediction markets aggregator (Polymarket + Kalshi) | [live](https://predictpro.yashb.xyz/) | [repo](https://github.com/yash2k26/PreditPro) |
-| **SaaS Analytics** — Multi-workspace analytics dashboard with live charts | [live](https://saas-analytics.yashb.xyz/) | [repo](https://github.com/yash2k26/SaasAnalystics) |
-| **Dyson Landing** — Cinematic scroll-driven landing page | [live](https://dyson.yashb.xyz/) | [repo](https://github.com/yash2k26/DysonDashboard) |
-| **AI Send Button** — WebGL liquid metal shader animation | [live](https://buttonai.yashb.xyz/) | [repo](https://github.com/yash2k26/AI-send-button) |
-| **Credit Card UI** — Interactive card with flip + digit animations | [live](https://creditcard.yashb.xyz/) | [repo](https://github.com/yash2k26/CreditCardComponent) |
-| **Spidey FIFA Cards** — Spider-Verse 3D card carousel | [live](https://spidey-fifa-cards.yashb.xyz/) | [repo](https://github.com/yash2k26/SpideyFifaCards) |
-| **Bubble Navbar** — Animated pill navbar component | [live](https://bubblenavbar.yashb.xyz/) | [repo](https://github.com/yash2k26/BubbleNavbar) |
+I build high-end, cinematic web experiences with a strong focus on **design, motion, and polish**.  
+My work sits at the intersection of **engineering and visual storytelling**.
 
 ---
 
-## Stack
+## ⚡ What I Care About
 
-React · React Native · Next.js · TypeScript · Tailwind CSS · Framer Motion · GSAP · WebGL · Three.js · Node.js · PostgreSQL · Prisma · Solana Web3.js · Bun
+- Pixel-perfect UI & spacing systems
+- Smooth, intentional motion (not gimmicks)
+- Clean, scalable component architecture
+- Performance-first frontend
+- Premium, product-level experiences
+
+---
+
+## 🛠 Tech Stack
+
+React · Next.js · React Native · TypeScript · Tailwind CSS · Framer Motion · GSAP · WebGL · Three.js · Node.js · PostgreSQL · Prisma · Solana Web3.js
+
+---
+
+## 🚀 Featured Work
+
+**NOMI** — Solana mobile dApp where users own & care for NFT companions. Published on the Solana dApp Store with 72+ reviews and real revenue.
+
+**PredictPro** — Real-time prediction markets aggregator combining Polymarket + Kalshi with unified feed, volume/liquidity sorting, and probability charts.
+
+**SaaS Analytics** — Multi-workspace analytics dashboard with live animated charts, event tracking, and fully themeable UI.
+
+**Dyson Landing** — Cinematic, scroll-driven landing page with frame-by-frame hero visuals and premium text reveals.
+
+**UI Components** — AI Send Button (WebGL liquid metal shader), Credit Card UI (flip + digit animations), Spider-Verse FIFA Card Carousel (3D tilt), Bubble Navbar.
+
+---
+
+## 📈 Philosophy
+
+> Good UI is invisible.  
+> Great UI feels inevitable.
+
+I don't just build interfaces — I craft experiences that feel **fast, intentional, and premium**.
+
+---
+
+## 🤝 Let's Connect
+
+- Portfolio: https://yashb.xyz
+- Twitter: https://x.com/Yassshhu
+- GitHub: https://github.com/yash2k26
+- Email: bharadwaj465@gmail.com
