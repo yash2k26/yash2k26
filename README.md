@@ -1,76 +1,26 @@
-# Yash Bharadwaj
+# Yash Bharadwaj — Portfolio
 
-### Frontend Engineer • Design Engineer • Motion-driven UI
+**Frontend & Design Engineer** • React • TypeScript • Motion UI
 
-I build high-end, cinematic web experiences with a strong focus on **design, motion, and polish**.  
-My work sits at the intersection of **engineering and visual storytelling**.
-
----
-
-## ⚡ What I Care About
-
-- Pixel-perfect UI & spacing systems  
-- Smooth, intentional motion (not gimmicks)  
-- Clean, scalable component architecture  
-- Performance-first frontend  
-- Premium, product-level experiences  
+> [yashb.xyz](https://yashb.xyz) · [GitHub](https://github.com/yash2k26) · [Twitter/X](https://x.com/Yassshhu) · bharadwaj465@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+## Projects
 
-**Frontend**
-- React / Next.js
-- Tailwind CSS
-- Framer Motion / Motion One
-
-**Backend (Working Knowledge)**
-- Node.js
-- PostgreSQL / Prisma
-
----
-
-## 🚀 Featured Work
-
-### SaaS Analytics Dashboard
-A fullstack analytics platform with clean data visualization and smooth UI interactions.
-
-- Auth (JWT)
-- Aggregation APIs
-- Animated dashboard cards
-- Chart-driven insights
+| Project | Live | Repo |
+|---------|------|------|
+| **NOMI** — Solana mobile dApp, NFT companions, 72+ reviews on dApp Store | — | [repo](https://github.com/yash2k26/NomiApp) |
+| **PredictPro** — Real-time prediction markets aggregator (Polymarket + Kalshi) | [live](https://predictpro.yashb.xyz/) | [repo](https://github.com/yash2k26/PreditPro) |
+| **SaaS Analytics** — Multi-workspace analytics dashboard with live charts | [live](https://saas-analytics.yashb.xyz/) | [repo](https://github.com/yash2k26/SaasAnalystics) |
+| **Dyson Landing** — Cinematic scroll-driven landing page | [live](https://dyson.yashb.xyz/) | [repo](https://github.com/yash2k26/DysonDashboard) |
+| **AI Send Button** — WebGL liquid metal shader animation | [live](https://buttonai.yashb.xyz/) | [repo](https://github.com/yash2k26/AI-send-button) |
+| **Credit Card UI** — Interactive card with flip + digit animations | [live](https://creditcard.yashb.xyz/) | [repo](https://github.com/yash2k26/CreditCardComponent) |
+| **Spidey FIFA Cards** — Spider-Verse 3D card carousel | [live](https://spidey-fifa-cards.yashb.xyz/) | [repo](https://github.com/yash2k26/SpideyFifaCards) |
+| **Bubble Navbar** — Animated pill navbar component | [live](https://bubblenavbar.yashb.xyz/) | [repo](https://github.com/yash2k26/BubbleNavbar) |
 
 ---
 
-### Cinematic Landing Pages
-High-end product landing pages inspired by premium brands.
+## Stack
 
-- Scroll-driven storytelling  
-- Subtle motion & parallax  
-- Dark luxury aesthetic  
-
----
-
-### UI Components
-Reusable, polished UI components with strong attention to detail.
-
-- Credit Card UI  
-- Interactive elements  
-- Motion-enhanced components  
-
----
-
-## 📈 Philosophy
-
-> Good UI is invisible.  
-> Great UI feels inevitable.
-
-I don’t just build interfaces — I craft experiences that feel **fast, intentional, and premium**.
-
----
-
-## 🤝 Let’s Connect
-
-- Twitter: https://x.com/Yassshhu
-
----
+React · React Native · Next.js · TypeScript · Tailwind CSS · Framer Motion · GSAP · WebGL · Three.js · Node.js · PostgreSQL · Prisma · Solana Web3.js · Bun
